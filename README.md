@@ -18,7 +18,7 @@ npm install nodemailer
 After you have downloaded the Nodemailer module, you can include the module in any application:
 
 var nodemailer = require('nodemailer');
-Send an Email
+
 Now you are ready to send emails from your server.
 
 
