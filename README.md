@@ -7,6 +7,8 @@ Applications used:-
 •	Express
 •	Handlebars
 •	Nodemailer
+•	HTML 
+•	CSS
 
 he Nodemailer Module
 The Nodemailer module makes it easy to send emails from your computer.
